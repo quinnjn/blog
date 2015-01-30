@@ -108,6 +108,7 @@ github: publish
 	git clone git@github.com:quinnjn/quinnjn.github.io.git publish
 	cp -r $(OUTPUTDIR)/* publish
 	cd publish
+	git add -A
 	git commit -am "Generating"
 	git push -f origin master
 	cd ..
