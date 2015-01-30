@@ -42,7 +42,7 @@ The riders included:
 
 ** David **
 
-*Location:* Victoria, SK
+*Location:* Victoria, BC
 
 *Bike:* 1981 Honda CB750 Custom
 
